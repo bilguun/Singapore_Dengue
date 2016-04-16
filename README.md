@@ -6,3 +6,5 @@ Machine Learning Project on predicting Dengue Fever cases in Singapore
 ##### - Yuan Lai (https://github.com/ylurban)
 ##### - Diego Garzòn (https://github.com/Diegosmiles)
 ##### - Bilguun Turboli (https://github.com/bilguun)
+
+! [Alt tag] Map_Sing.png
