@@ -7,4 +7,4 @@ Machine Learning Project on predicting Dengue Fever cases in Singapore
 ##### - Diego Garzòn (https://github.com/Diegosmiles)
 ##### - Bilguun Turboli (https://github.com/bilguun)
 
-![Singapore] https://cusp2015.slack.com/files/yuan/F0XJCC8LB/map_sing.png
+![Singapore] Map_Sing.png
