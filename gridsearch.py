@@ -1,4 +1,7 @@
 def get_results(n_components,max_features,criterion,n_estimators):
+    from sklearn.metrics import accuracy_score
+    from sklearn.cross_validation import KFold
+    from sklearn.ensemble import RandomForestClassifier
     kf = KFold(n=len(X), n_folds=12, shuffle=True, random_state=21)
     d = []
     for train_index, test_index in kf:
