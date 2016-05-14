@@ -1,7 +1,7 @@
 # Singapore_Dengue
 ### Predicting Dengue Fever outbreaks in Singapore
-Machine Learning Project for the Center of Urban Science and Progress at New York University
-#### Contributors:
+#### Machine Learning Project for the Center of Urban Science and Progress at New York University
+##### Contributors:
 ##### - Yuan Lai (https://github.com/ylurban)
 ##### - Diego Garzòn (https://github.com/Diegosmiles)
 ##### - Bilguun Turboli (https://github.com/bilguun)
